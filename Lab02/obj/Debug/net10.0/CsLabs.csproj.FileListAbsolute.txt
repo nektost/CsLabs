@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CsLabs\CsLabs\bin\Debug\net10.0\CsLabs.exe
+C:\Users\User\source\repos\CsLabs\CsLabs\bin\Debug\net10.0\CsLabs.deps.json
+C:\Users\User\source\repos\CsLabs\CsLabs\bin\Debug\net10.0\CsLabs.runtimeconfig.json
+C:\Users\User\source\repos\CsLabs\CsLabs\bin\Debug\net10.0\CsLabs.dll
+C:\Users\User\source\repos\CsLabs\CsLabs\bin\Debug\net10.0\CsLabs.pdb
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.AssemblyInfo.cs
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.sourcelink.json
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.dll
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\refint\CsLabs.dll
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.pdb
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.genruntimeconfig.cache
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\ref\CsLabs.dll
+C:\Users\User\source\repos\CsLabs\CsLabs\obj\Debug\net10.0\CsLabs.csproj.Up2Date
