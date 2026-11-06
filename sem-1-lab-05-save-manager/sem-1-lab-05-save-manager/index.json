@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Save One",
+    "fileName": "save-01.json",
+    "updatedAt": "2023-10-25T12:00:00"
+  },
+  {
+    "name": "Save Two",
+    "fileName": "save-02.json",
+    "updatedAt": "2023-10-26T14:30:00"
+  },
+  {
+    "name": "Autosave",
+    "fileName": "autosave.json",
+    "updatedAt": "2023-10-27T18:15:00"
+  }
+]
